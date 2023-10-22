@@ -1,0 +1,1 @@
+GUVI ZEN Class Day 01 Activities: Submitted two documents explaining the difference between HTTP and HTTPS, and explaining about objects and its internal representation in Javascript.
